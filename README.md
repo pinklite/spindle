@@ -1,10 +1,3 @@
-## NOTICE - This project has moved.
-
-It is now part of Foursquare's open source monorepo [Fsq.io](https://github.com/foursquare/fsqio) and all
-future work will be published there.
-
-The project very much lives on but this Github repo is deprecated.
-
 
 # Spindle
 
